@@ -40,4 +40,5 @@ build/
 
 
 ### 백업용 폴더 ###
-/backup/
+backup/
+.txt
